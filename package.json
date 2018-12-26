@@ -1,9 +1,9 @@
 {
-  "name": "keywordshitter2",
+  "name": "keywordsialan",
   "version": "0.0.5",
   "description": "The second generation of keyword shitter. Bigger, better, and more pungent than other products.",
   "main": "public/js/main.js",
-  "repository": "https://github.com/wassname/keywordshitter2",
+  "repository": "https://irfnrdh.github.io/keywordsialan/",
   "scripts": {
     "test": "public/test.html",
     "build-css": "lessc ./src/less/main.less > public/css/style.css",
